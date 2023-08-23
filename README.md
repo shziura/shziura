@@ -1,4 +1,6 @@
-helo i can do java, html css, some js and some php :3
+# SHZIURA
+
+anything front-end :3
 
 
 <!---
