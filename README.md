@@ -1,6 +1,12 @@
 # SHZIURA
 
-anything front-end :3
+I pretty much love everything Front-End and Web Development related but i also like Back-End (Front-End alot better tho...)
+
+### Languages I can code in:
+HTML, CSS, SCSS, JavaScript, PHP, Java, lolcode (i was bored)
+
+### Languages I want to learn:
+C / C++, Python, TypeScript
 
 
 <!---
