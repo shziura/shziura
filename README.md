@@ -1,4 +1,5 @@
 # SHZIURA
+Hello! I'm a Web Developer, specializing in Front-end Developing.
 
 ## My skills
 - Javascript / Typescript
