@@ -1,6 +1,15 @@
 # SHZIURA
 
-i'm cool
+## My skills
+- Javascript / Typescript
+- PHP
+- HTML
+- CSS (tailwind)
+
+## Frameworks I work with
+- Symfony / Pimcore
+- Vue.js
+- React.js
 
 <!---
 shziura/shziura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
