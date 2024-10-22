@@ -7,7 +7,7 @@ Hello! I'm a Web Developer, specializing in Front-end Developing.
 - HTML
 - CSS (tailwind)
 
-## Frameworks I work with
+## Frameworks I code with
 - Symfony / Pimcore
 - Vue.js
 - React.js
