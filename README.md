@@ -1,21 +1,4 @@
-# SHZIURA
-I do front-end stuff
-
-## My skills
-- Javascript / Typescript
-- PHP
-- HTML
-- CSS (tailwind)
-
-## Frameworks I code with
-- Symfony / Pimcore
-- Vue.js
-- React.js
-
-## Currently I am...
-- Learning Next.js
-- ...
-
+bleh...
 <!---
 shziura/shziura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
